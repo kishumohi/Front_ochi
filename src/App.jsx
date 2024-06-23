@@ -5,6 +5,7 @@ import Marquee from "./components/Marquee.jsx";
 import About from "./components/About.jsx";
 import Eyes from "./components/Eyes.jsx";
 import Featured from "./components/Featured.jsx";
+import Cards from "./components/Cards.jsx";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <About />
       <Eyes />
       <Featured />
+      <Cards />
     </div>
   );
 }
